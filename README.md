@@ -10,6 +10,6 @@ They can further narrow down their search by putting in a specific date or shape
 
 ## Summary </br>
 
-One drawback of this new design is that unless you know the exact UFO sighting you are looking for, it could be difficult to just "play around" with the filtering system as it might pull up no results. 
+One drawback of this new design is that 
 
-Two improvements I would recommend making to the page is perhaps having a 
+Two improvements I would recommend making to the page is perhaps
